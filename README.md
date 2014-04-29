@@ -18,3 +18,4 @@ coolorpig
 6、库可以使用了。命令如下
     zhu@ubuntu:~/workspace$ g++ pth_test.cpp -lpth
 
+/home/zhu/Pictures/pth_User_Space_Context.png
