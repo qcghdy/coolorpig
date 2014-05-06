@@ -1,10 +1,8 @@
 coolorpig
 =========
 
-个人学习project
-
-这里主要有
-一、2014年4月 学习gnu pth
+个人学习project，这里主要有
+###一、2014年4月 学习gnu pth###
     安装方法：
     1、google [gnu pth]点击进入 http://ftp.gnu.org/gnu/pth/ 并下载最新版本。
     2、解压 tar -zvf pth-2.0.7.tar.gz
@@ -19,4 +17,4 @@ coolorpig
         zhu@ubuntu:~/workspace$ g++ pth_test.cpp -lpth
 
 
-二、学习tcp udp 网络通信服务器
+###二、学习tcp udp 网络通信服务器###
