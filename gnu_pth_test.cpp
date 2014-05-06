@@ -20,7 +20,6 @@ void test(void* arg)
 
 void main()
 {
-
     pth_uctx_create(&u_main);
     pth_uctx_create(&u_test);
     pth_uctx_make(u_test, stack, sizeof(stack), NULL, test, NULL, NULL);
